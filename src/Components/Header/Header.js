@@ -1,6 +1,6 @@
 const Header = () =>{
     return(
-        <div className="header-container">
+        <div>
             <div className="header-logo">//</div>
             <div className="header-percent">///</div>
         </div>
